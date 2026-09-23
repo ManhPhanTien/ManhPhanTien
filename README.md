@@ -85,9 +85,9 @@ I combine a researcher's logical mindset with technical skills in **SQL, Python,
 
 ### 📜 Certifications
 
-- 🏅 **HackerRank** — SQL Certificate (Advanced)
-- 🏅 **DataCamp** — SQL, Power BI, and Python courses
-- 🏅 **Toeic** — Score 700
-- 🏅 **Microsoft Office Specialist (MOS)**
+- **HackerRank** — SQL Certificate (Advanced)
+- **DataCamp** — SQL, Power BI, and Python courses
+- **Toeic** — Score 700
+- **Microsoft Office Specialist (MOS)**
 
 
