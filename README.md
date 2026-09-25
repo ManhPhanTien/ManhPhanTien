@@ -1,5 +1,4 @@
 <h1 align="center">Phan Tien Manh</h1>
-<h3 align="center">Data Analyst 
 <h3 align="center"> Thu Duc City | manhphan.economics@gmail.com
 
 ---
