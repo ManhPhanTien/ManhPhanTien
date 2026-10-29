@@ -36,7 +36,7 @@ I combine a researcher's logical mindset with technical skills in **SQL, Python,
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ManhPhanTien/ewallet-payment-success-bi">
-        <strong> E-Wallet Payment Success Rate Drop — Root Cause Analysis</strong>
+        <strong> E-Wallet Payment Success Rate Drop (Power BI)</strong>
       </a>
       <br>
       Investigated a drop in payment success rate for an e-wallet product and identified the root causes behind it.
@@ -45,7 +45,7 @@ I combine a researcher's logical mindset with technical skills in **SQL, Python,
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ManhPhanTien/financial-analytics-bi">
-        <strong> Financial Analytics Dashboard</strong>
+        <strong> Financial Analytics Dashboard (Power BI)</strong>
       </a>
       <br>
       Built an interactive dashboard to track and analyze financial performance.
@@ -53,7 +53,7 @@ I combine a researcher's logical mindset with technical skills in **SQL, Python,
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ManhPhanTien/ga-ecommerce-sql">
-        <strong> E-commerce Behavior Analysis with BigQuery</strong>
+        <strong> E-commerce Behavior Analysis (BigQuery)</strong>
       </a>
       <br>
       Analyzed user behavior on an e-commerce site using the Google Analytics public dataset — traffic, revenue, and conversion funnel.
@@ -63,7 +63,7 @@ I combine a researcher's logical mindset with technical skills in **SQL, Python,
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ManhPhanTien/adventureworks-sales-sql">
-        <strong> AdventureWorks Sales & Inventory Analysis with BigQuery</strong>
+        <strong> AdventureWorks Sales & Inventory Analysis (BigQuery)</strong>
       </a>
       <br>
       Analyzed sales performance, customer retention, and inventory trends for a bicycle company using the AdventureWorks dataset.
